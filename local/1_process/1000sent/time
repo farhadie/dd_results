@@ -1,0 +1,4 @@
+deepdive run (1000 sent, 1 proc)
+real    5m1.047s
+user    9m12.820s
+sys     0m25.568s
