@@ -1,0 +1,18 @@
+task	actuall	total	|	dd
+load	15	134		15	
+nlp	5125	5247		7513
+per_m	21	122		82
+num_per	22	64		0.5
+pla_m	17	121		68
+num_pla	19	60		0.5
+pla_can	28	71		28
+can_la0	56	154		5
+nat_m	15	118		68
+load2	7	110		1
+num_nat	18	63		0.5
+nat_can	30	74		21
+can_la1	50	150		2
+can_lab	16	56		1
+lab_res	17	59		1
+------------------------------------
+total	5456	6603		7806		

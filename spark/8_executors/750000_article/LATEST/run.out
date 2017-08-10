@@ -1,0 +1,54 @@
+2017-08-10 02:28:24.827124 + hdfs:///user/farhadi/deepdive/birth_place created
+2017-08-10 02:28:27.507569 
+2017-08-10 02:29:15.462625 Loading articles from input/articles.tsv (tsv format)
+2017-08-10 02:29:15.466594 input/articles.tsv
+2017-08-10 02:29:15.466767 Found
+2017-08-10 02:29:34.712457 
+2017-08-10 02:30:39.839888 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/articles' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 02:30:45.073037 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/tmp/data-table' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 02:30:45.602318 db-prompt ANALYZE articles; 
+2017-08-10 02:30:48.713759 
+2017-08-10 02:31:38.657485 
+2017-08-10 08:55:36.281769 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_sentences' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 08:55:48.206451 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_sentences' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 08:55:48.731512 db-prompt ANALYZE sentences; 
+2017-08-10 08:55:51.529005 
+2017-08-10 08:56:41.711299 
+2017-08-10 08:57:49.033119 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_person_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 08:58:00.966203 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_person_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 08:58:01.492709 db-prompt ANALYZE person_mention; 
+2017-08-10 08:58:04.113696 
+2017-08-10 08:59:05.026248 
+2017-08-10 08:59:53.764304 
+2017-08-10 09:00:56.784933 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_place_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:01:08.642797 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_place_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:01:09.169605 db-prompt ANALYZE place_mention; 
+2017-08-10 09:01:11.790740 
+2017-08-10 09:02:10.736008 
+2017-08-10 09:03:17.050405 
+2017-08-10 09:04:04.382126 
+2017-08-10 09:05:54.763652 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_candidate_label__0' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:06:06.730037 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_candidate_label__0' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:06:07.257113 db-prompt ANALYZE candidate_label__0; 
+2017-08-10 09:06:10.051546 
+2017-08-10 09:07:00.602563 
+2017-08-10 09:07:56.276900 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_nationality_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:08:08.151077 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_nationality_mention' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:08:08.676497 db-prompt ANALYZE nationality_mention; 
+2017-08-10 09:08:11.427259 
+2017-08-10 09:08:58.290403 Loading nationalities from input/nationalities.tsv (tsv format)
+2017-08-10 09:08:58.293911 input/nationalities.tsv
+2017-08-10 09:08:58.293981 Found
+2017-08-10 09:09:03.351903 
+2017-08-10 09:09:41.701838 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/nationalities' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:09:46.327225 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/tmp/data-table' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:09:46.828234 db-prompt ANALYZE nationalities; 
+2017-08-10 09:09:49.517592 
+2017-08-10 09:10:44.197753 
+2017-08-10 09:11:56.677596 
+2017-08-10 09:12:44.705594 
+2017-08-10 09:14:31.376921 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_tmp_candidate_label__1' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:14:43.376849 Moved: 'hdfs://diufpc56.unifr.ch:8020/user/farhadi/deepdive/birth_place/dd_old_candidate_label__1' to trash at: hdfs://diufpc56.unifr.ch:8020/user/ehsan/.Trash/Current
+2017-08-10 09:14:43.903872 db-prompt ANALYZE candidate_label__1; 
+2017-08-10 09:14:46.487251 
+2017-08-10 09:15:44.491541 

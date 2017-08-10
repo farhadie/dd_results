@@ -1,0 +1,9 @@
+only till sentences step
+real    98m28.324s
+user    2m37.784s
+sys     0m18.436s
+
+till label_resolved
+real    110m8.966s
+user    12m36.860s
+sys     1m14.712s
